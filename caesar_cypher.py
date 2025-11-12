@@ -1,4 +1,3 @@
-alphabet = ["abcdefghijklmnopqrstuvwxyz"]
 user_text = input("Please enter your text.").strip()
 user_key = int(input("Please enter your key."))
 
